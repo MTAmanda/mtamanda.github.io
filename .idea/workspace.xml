@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5dc2c04c-0195-4d92-bfdd-d5a2b4245897" name="Changes" comment="Updated info">
-      <change afterPath="$PROJECT_DIR$/documents/Amanda_Mateta-Backend_Developer_ENG.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +190,8 @@
       <workItem from="1721060617746" duration="8000" />
       <workItem from="1721061368932" duration="108000" />
       <workItem from="1721115707186" duration="3246000" />
-      <workItem from="1721155705444" duration="4732000" />
+      <workItem from="1721155705444" duration="5762000" />
+      <workItem from="1721727274911" duration="355000" />
     </task>
     <task id="LOCAL-00001" summary="Pages ready">
       <option name="closed" value="true" />
@@ -219,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721163535527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated info">
+      <option name="closed" value="true" />
+      <created>1721207778868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721207778868</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

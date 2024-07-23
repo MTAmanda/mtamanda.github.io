@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dc2c04c-0195-4d92-bfdd-d5a2b4245897" name="Changes" comment="Updated info">
+    <list default="true" id="5dc2c04c-0195-4d92-bfdd-d5a2b4245897" name="Changes" comment="Updated summary">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +192,7 @@
       <workItem from="1721061368932" duration="108000" />
       <workItem from="1721115707186" duration="3246000" />
       <workItem from="1721155705444" duration="5762000" />
-      <workItem from="1721727274911" duration="355000" />
+      <workItem from="1721727274911" duration="2742000" />
     </task>
     <task id="LOCAL-00001" summary="Pages ready">
       <option name="closed" value="true" />
@@ -225,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721207778868</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated summary">
+      <option name="closed" value="true" />
+      <created>1721727698320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721727698320</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,6 +244,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Pages ready" />
     <MESSAGE value="Updated info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated info" />
+    <MESSAGE value="Updated summary" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated summary" />
   </component>
 </project>
